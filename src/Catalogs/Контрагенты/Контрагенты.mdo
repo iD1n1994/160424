@@ -49,6 +49,21 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="213242b5-2ce8-4539-a956-8888ab4deea0">
+    <name>СтатусЛояльности</name>
+    <synonym>
+      <key>ru</key>
+      <value>Статус лояльности</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="74d513de-a1d2-4461-87e6-068c9a65e71c">
     <name>ФормаЭлемента</name>
     <synonym>
