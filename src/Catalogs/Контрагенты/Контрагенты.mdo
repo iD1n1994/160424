@@ -82,6 +82,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="2a453d4e-8c47-4480-9ca0-b79ef2f5b5ce">
+    <name>РеквизитРазработчик2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит разработчик2</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="74d513de-a1d2-4461-87e6-068c9a65e71c">
     <name>ФормаЭлемента</name>
     <synonym>
